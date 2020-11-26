@@ -17,5 +17,9 @@ A record of what I'm learning about non-primitive data structures.
 - [ ] Hash map
 - [ ] Graph
 
+## Sorting algorithms
+- [ ] Bubble sort
+- [ ] Quick sort
+
 ### Resources
 - [7 JavaScript data structures you must know](https://www.educative.io/blog/javascript-data-structures)
